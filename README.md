@@ -5,7 +5,7 @@ This project was created on 20/02/2021
 Udacity GitHub Repository project 
 
 ### Description
-Describe what your project is about and what it does
+Using Git to version control GitHub Repository
 
 ### Files used
 Include the files used
